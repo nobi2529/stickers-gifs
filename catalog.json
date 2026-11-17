@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "Trending"
+  ],
+  "sticker_packs": [
+    {
+      "identifier": "pack_001",
+      "name": "Sticker Pack 1",
+      "publisher": "Carsworldstudio",
+      "category": "Trending",
+      "animated": false,
+      "tray_icon_url": "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/tray.png",
+      "stickers": [
+        "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/s1.webp",
+        "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/s2.webp",
+        "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/s3.webp",
+        "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/s4.webp",
+        "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/s5.webp",
+        "https://cdn.jsdelivr.net/gh/nobi2529/stickers-gifs@main/packs/pack_001/s6.webp"
+      ]
+    }
+  ],
+  "gifs": []
+}
